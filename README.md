@@ -12,7 +12,7 @@ It consists of two, well documented parts:
 Just include with some package manager, like:
 
 ```
-Plug 'sheerun/vimrc'
+Plug 'balaclark/vimrc'
 ```
 
 I recommend to use:
